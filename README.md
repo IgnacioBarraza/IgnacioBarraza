@@ -2,6 +2,9 @@
 My name is Ignacio, I'm 20 y.o, from Chile.  
 Currently studying informatic engineer at Universidad de Tarapacá.  
 My favorite game is Pokémon, I can't choose just one, but my favorite of them would probably be Pokémon: Gold.
+<p align="center">
+    <img width="55%" src="https://github.com/IgnacioBarraza/IgnacioBarraza/blob/main/img/japan_castle.jpg">
+</p> 
 
 ### Work Experience
 I'm working in Lazarillo as a full stack developer at right now, making the world more accessible :D

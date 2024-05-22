@@ -1,5 +1,5 @@
 # About Me
-Hey! if you're reading this it's probably 'cause you are too bored or you like me profile and looking what I have done as a informatic engineer student (not as much as other, but it's an honest job (I'm going to thing that you get the meme 🧐))
+Hey! if you're reading this it's probably 'cause you are too bored or you like my profile and looking what I have done as a informatic engineer student (not as much as other, but it's an honest job (I'm going to thing that you get the meme 🧐))
 
 Well, let me introduce myself.  
 I'm Ignacio, but you can call me Nacho 😉, a 21 y.o. informatic engineer student and a (in progress) software developer.  

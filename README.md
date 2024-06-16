@@ -5,7 +5,6 @@ Well, let me introduce myself.
 I'm Ignacio, but you can call me Nacho 😉, a 21 y.o. informatic engineer student and a (in progress) software developer.  
 I'm studying at University of Tarapacá (I thing 🤔).  
 From the north part of Chile 🇨🇱, especific I'm from a city called Iquique 🐉  
-And I have a beautiful girlfriend who studies medicine <3, so sorry for you, i'm already taken  
 So thats the important things about me, if you want to know more about me you can send me a email here ignacio.barraza.rioja@gmail.com or send me a dm on my instagram [Nacho's ig](https://www.instagram.com/_nacho0._/) or contact me on [LinkedIn](https://www.linkedin.com/in/ignacio-barraza-rioja/)
 
 <p align="center">

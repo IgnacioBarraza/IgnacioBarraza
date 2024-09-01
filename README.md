@@ -29,26 +29,35 @@
 - ✨ English (C2/C1)
 - ⛩️ Learning Japanese
 
-# Languages & Tools 👨‍💻:
+# Languages & FrameWorks & Tools 👨‍💻🛠️:
 </br>
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="src/icons/angular.png" alt="Angular" width="150" hight="50">
-<img src="src/icons/nodejs.png" alt="NodeJS" width="120" hight="50">
-<img src="src/icons/react.png" alt="React" width="100" hight="50">
-<img src="src/icons/java.png" alt="java"  width="60" hight="50">
-<img src="src/icons/python.jpg" alt="Python"  width="30" hight="50">
-<img src="src/icons/js.png" alt="JavaScript"  width="30" hight="50">
-<img src="src/icons/cpp.png" alt="C++"  width="30" hight="30">
-<img src="src/icons/typescript.png" alt="TypeScript"  width="35" hight="30">
-<img src="src/icons/iot.png" alt="iot" width="80" hight="50">
-<img src="src/icons/dockerhub.png" alt="DockerHub" width="120" hight="50">
-<img src="src/icons/docker.png" alt="Docker" width="100" hight="50">
-<img src="src/icons/jetbrains_intellij.png" alt="JetbrainsIntellij" width="130" hight="50">
-<img src="src/icons/jetbrains_pycharm.png" alt="JetbrainsPycharm" width="100" hight="50">
-<img src="src/icons/visualstudio_code.png" alt="VSCode" width="140" hight="50">
+<p align="center">
+  <img src="src/icons/angular.png" alt="Angular" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/nodejs.png" alt="NodeJS" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/react.png" alt="React" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/docker.png" alt="Docker" width="35" hight="50" style="margin: auto 5px">
+</p>
+</br>
+<p align="center">
+  <img src="src/icons/java.png" alt="java"  width="65" hight="50" style="margin: auto 5px">
+  <img src="src/icons/python.jpg" alt="Python"  width="35" hight="50" style="border-radius: 5px; margin: auto 5px;">
+  <img src="src/icons/js.png" alt="JavaScript"  width="35" hight="50" style="border-radius: 5px; margin: auto 5px;">
+  <img src="src/icons/cpp.png" alt="C++"  width="32" hight="30" style="margin: auto 5px">
+  <img src="src/icons/typescript.png" alt="TypeScript"  width="35" hight="30" style="margin: auto 5px">
+</p>
+<p align="center">
+  <img src="src/icons/arduino.png" alt="Arduino"  width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/raspberry-pi.png" alt="Arduino"  width="35" hight="50" style="margin: auto 5px">
+</p>
+<p align="center">
+  <img src="src/icons/jetbrains_intellij.png" alt="JetbrainsIntellij" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/jetbrains_pycharm.png" alt="JetbrainsPycharm" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/visualstudio_code.png" alt="VSCode" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/netbeans.png" alt="Netbeans" width="30" hight="50" style="margin: auto 5px">
+</p>
 </p>
 </br>
 </br>

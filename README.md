@@ -24,6 +24,11 @@
 - ⛩️ Reading Manga & Ligth Novels
 - 🎮 Game player (cs:go, genshin impact, Apex Legends, Overwatch2)
 
+### Languages:
+- ✨ Spanish (native language)
+- ✨ English (C2/C1)
+- ⛩️ Learning Japanese
+
 # Languages & Tools 👨‍💻:
 </br>
 

@@ -35,10 +35,10 @@
 <p align="center">
 
 <p align="center">
-  <img src="src/icons/angular.png" alt="Angular" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/nodejs.png" alt="NodeJS" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/react.png" alt="React" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/docker.png" alt="Docker" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/angular_icon.png" alt="Angular" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/nodejs_icon.png" alt="NodeJS" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/react_icon.png" alt="React" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/docker_icon.png" alt="Docker" width="35" hight="50" style="margin: auto 5px">
 </p>
 </br>
 <p align="center">
@@ -53,9 +53,9 @@
   <img src="src/icons/raspberry-pi.png" alt="RaspberryPi"  width="35" hight="50" style="margin: auto 5px">
 </p>
 <p align="center">
-  <img src="src/icons/jetbrains_intellij.png" alt="JetbrainsIntellij" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/jetbrains_pycharm.png" alt="JetbrainsPycharm" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/visualstudio_code.png" alt="VSCode" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/jetbrains_intellij_icon.png" alt="JetbrainsIntellij" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/jetbrains_pycharm_icon.png" alt="JetbrainsPycharm" width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/visualstudio_code_icon.png" alt="VSCode" width="35" hight="50" style="margin: auto 5px">
   <img src="src/icons/netbeans.png" alt="Netbeans" width="30" hight="50" style="margin: auto 5px">
 </p>
 </p>

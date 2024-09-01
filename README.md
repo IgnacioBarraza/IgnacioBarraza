@@ -95,11 +95,14 @@ If you want to reach out to me about anything, be it some doubt or just to ask s
 
 # Github Stats 🤔
 <p align="center">
-    <img width="45%" align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBarraza&theme=tokyonight&hide=html,&hide_border=true">
-    <img width="50%" align="right"
+    <img width="50%" align="center"
  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IgnacioBarraza&theme=tokyonight&show_icons=true&hide=issues&icon_color=f8bb98&hide_border=true">
 </p>
 
+# Thanks for reading!
+<p align="center">
+  <img hight="400" width="600" align="center" alt="GIF" src="src/gif/gojo-gojo-satoru.gif">
+</p>
 
 <!---
 IgnacioBarraza/IgnacioBarraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

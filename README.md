@@ -50,7 +50,7 @@
 </p>
 <p align="center">
   <img src="src/icons/arduino.png" alt="Arduino"  width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/raspberry-pi.png" alt="Arduino"  width="35" hight="50" style="margin: auto 5px">
+  <img src="src/icons/raspberry-pi.png" alt="RaspberryPi"  width="35" hight="50" style="margin: auto 5px">
 </p>
 <p align="center">
   <img src="src/icons/jetbrains_intellij.png" alt="JetbrainsIntellij" width="35" hight="50" style="margin: auto 5px">

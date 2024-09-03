@@ -29,7 +29,7 @@
 - ✨ English (C2/C1)
 - ⛩️ Learning Japanese
 
-# Languages & FrameWorks & Tools 👨‍💻🛠️:
+# Languages, FrameWorks & Tools 👨‍💻🛠️:
 </br>
 
 <p align="center">

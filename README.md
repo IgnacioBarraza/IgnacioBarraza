@@ -1,108 +1,115 @@
-# Hey! 👋
+# 👋 Hey there!  
+
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="src/gif/hi-there.gif">
+  <img hight="300" width="700" alt="Hi There GIF" align="center" src="src/gif/hi-there.gif">
+</div>  
+
+---
+
+## 💻 About Me  
+
+👨‍💻 I'm **Nacho**, a **21-year-old Software Engineer** from **Chile 🇨🇱**, passionate about:  
+- **Full Stack Development**  
+- **Game Development** (currently learning 🕹️)  
+- **Robotics Enthusiast**  
+
+✨ When I'm not coding, you'll probably find me:  
+- Trying (and struggling) to learn **Japanese** ⛩️  
+- Watching **anime** or reading **manga & light novels** 📚  
+- Playing **games** (CS:GO, Genshin Impact, Apex Legends, Overwatch 2, Minecraft) 🎮  
+
+---
+
+## 🚀 Currently Learning  
+
+- 🌟 Full Stack Development focused on backend  
+- 🌟 Game Development  
+- 🌟 Robotics (ROS, C++, etc.)  
+
+---
+
+## 🌐 Languages  
+
+- **Spanish**: Native Speaker  
+- **English**: C2/C1  
+- **Japanese**: Learning (work in progress 😅)  
+
+---
+
+## 🛠️ Languages, Frameworks & Tools  
+
+<div align="center">
+
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  
 </div>
 
-</br>
-</br>
-</br>
+---
 
-# About ME 💬:
+## 💼 Work Experience  
 
-### - I'm 21 years old Software Engineer, Full Stack Developer, Game Dev student & Robotic enthusiast from Chile 🇨🇱
-
-<img hight="500" width="500" alt="GIF" align="right" src="src/gif/pompo-the-cinephile-typing-fast.gif">
-
-### - Learning: 
-- ✨ Full Stack Development
-- ✨ Game development
-- ✨ Robotic things (ROS, C++, Etc)
-
-### Hobbies: 
-- ⛩️ Trying to learn Japanese (emphasis on trying XD)
-- ⛩️ Watching anime
-- ⛩️ Reading Manga & Ligth Novels
-- 🎮 Game player (cs:go, genshin impact, Apex Legends, Overwatch2)
-
-### Languages:
-- ✨ Spanish (native language)
-- ✨ English (C2/C1)
-- ⛩️ Learning Japanese
-
-# Languages, FrameWorks & Tools 👨‍💻🛠️:
-</br>
-
-<p align="center">
-
-<p align="center">
-  <img src="src/icons/angular_icon.png" alt="Angular" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/nodejs_icon.png" alt="NodeJS" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/react_icon.png" alt="React" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/docker_icon.png" alt="Docker" width="35" hight="50" style="margin: auto 5px">
-</p>
-</br>
-<p align="center">
-  <img src="src/icons/java.png" alt="java"  width="65" hight="50" style="margin: auto 5px">
-  <img src="src/icons/python.jpg" alt="Python"  width="35" hight="50" style="border-radius: 5px; margin: auto 5px;">
-  <img src="src/icons/js.png" alt="JavaScript"  width="35" hight="50" style="border-radius: 5px; margin: auto 5px;">
-  <img src="src/icons/cpp.png" alt="C++"  width="32" hight="30" style="margin: auto 5px">
-  <img src="src/icons/typescript.png" alt="TypeScript"  width="35" hight="30" style="margin: auto 5px">
-</p>
-<p align="center">
-  <img src="src/icons/arduino.png" alt="Arduino"  width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/raspberry-pi.png" alt="RaspberryPi"  width="35" hight="50" style="margin: auto 5px">
-</p>
-<p align="center">
-  <img src="src/icons/jetbrains_intellij_icon.png" alt="JetbrainsIntellij" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/jetbrains_pycharm_icon.png" alt="JetbrainsPycharm" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/visualstudio_code_icon.png" alt="VSCode" width="35" hight="50" style="margin: auto 5px">
-  <img src="src/icons/netbeans.png" alt="Netbeans" width="30" hight="50" style="margin: auto 5px">
-</p>
-</p>
-</br>
-</br>
-</br>
-
-# Work Experience
-- Full Stack Developer at [@Lazarillo/MapVX](https://mapvx.com/);
-- Assistant of the data base course at Universidad de Tarapacá;
-- Assistant of the introduction to project formulation course at Universidad de Tarapacá;
-- Assistant of the TIC's course at Universidad de Tarapacá;
-
+- **Full Stack Developer** at [@MapVX](https://mapvx.com/)  
+- **Teaching Assistant** for various courses at **Universidad de Tarapacá**  
 <img hight="300" width="700" alt="GIF" align="center" src="src/gif/japan-chieuki.gif">
 
-# Contact Me:
-<p>
-</br>
-<img hight="320" width="450" align="right" alt="GIF" src="src/gif/fuuto-pi-fuuto-tantei.gif">
+---
 
-If you want to reach out to me about anything, be it some doubt or just to ask something just ping me 😉.
+## 📬 Contact Me  
 
-<a href="mailto:ignacio.barraza.rioja@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="src/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ignacio-barraza-rioja/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="src/icons/linkedin.png" />
-</a>
-</p>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<div align="center">  
 
-# Github Stats 🤔
-<p align="center">
-    <img width="50%" align="center"
- alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IgnacioBarraza&theme=tokyonight&show_icons=true&hide=issues&icon_color=f8bb98&hide_border=true">
-</p>
+If you’d like to reach out, feel free to ping me!  
 
-# Thanks for reading!
-<p align="center">
-  <img hight="400" width="600" align="center" alt="GIF" src="src/gif/gojo-gojo-satoru.gif">
-</p>
+<a href="mailto:ignacio.barraza.rioja@gmail.com"><img hight="50" width="150" alt="Gmail" src="src/icons/gmail.png"></a>  
+<a href="https://www.linkedin.com/in/ignacio-barraza-rioja/"><img hight="50" width="150" alt="Linkedin" src="src/icons/linkedin.png"></a>  
+
+</div>  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">  
+
+![Nacho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgnacioBarraza&show_icons=true&theme=dark#gh-dark-mode-only)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBarraza&layout=compact&theme=dark#gh-dark-mode-only)  
+
+</div>  
+
+---
+
+<div align="center">  
+  <p>✨ Thanks for reading! ✨</p>  
+  <img hight="400" width="600" align="center" alt="GIF" src="src/gif/gojo-gojo-satoru.gif">  
+</div>  
 
 <!---
 IgnacioBarraza/IgnacioBarraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

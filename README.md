@@ -16,7 +16,10 @@
 ✨ When I'm not coding, you'll probably find me:  
 - Trying (and struggling) to learn **Japanese** ⛩️  
 - Watching **anime** or reading **manga & light novels** 📚  
-- Playing **games** (CS:GO, Genshin Impact, Apex Legends, Overwatch 2, Minecraft) 🎮  
+- Playing **games** (CS:GO, Genshin Impact, Apex Legends, Overwatch 2, Minecraft) 🎮
+
+🚀 Portfolio:  
+🌐 Check out my work at [devnacho.me](https://devnacho.me/)
 
 ---
 
@@ -25,6 +28,7 @@
 - 🌟 Full Stack Development focused on backend  
 - 🌟 Game Development  
 - 🌟 Robotics (ROS, C++, etc.)  
+
 
 ---
 

@@ -10,7 +10,7 @@
 
 👨‍💻 I'm **Nacho**, a **21-year-old Software Engineer** from **Chile 🇨🇱**, passionate about:  
 - **Full Stack Development**  
-- **Game Development** (currently learning 🕹️)  
+- **3D modeling** (currently learning)  
 - **Robotics Enthusiast**  
 
 ✨ When I'm not coding, you'll probably find me:  
@@ -26,7 +26,7 @@
 ## 🚀 Currently Learning  
 
 - 🌟 Full Stack Development focused on backend  
-- 🌟 Game Development  
+- 🌟 #D Modeling  
 - 🌟 Robotics (ROS, C++, etc.)  
 
 

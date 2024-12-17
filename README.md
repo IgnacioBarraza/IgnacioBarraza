@@ -26,7 +26,7 @@
 ## 🚀 Currently Learning  
 
 - 🌟 Full Stack Development focused on backend  
-- 🌟 #D Modeling  
+- 🌟 3D Modeling  
 - 🌟 Robotics (ROS, C++, etc.)  
 
 

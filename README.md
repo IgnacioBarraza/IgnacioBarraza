@@ -8,7 +8,7 @@
 
 ## 💻 About Me  
 
-👨‍💻 I'm **Nacho**, a **21-year-old Software Engineer** from **Chile 🇨🇱**, passionate about:  
+👨‍💻 I'm **Nacho**, a **22-year-old Software Engineer** from **Chile 🇨🇱**, passionate about:  
 - **Full Stack Development**  
 - **3D modeling** (currently learning)  
 - **Robotics Enthusiast**  
@@ -27,7 +27,8 @@
 
 - 🌟 Full Stack Development focused on backend  
 - 🌟 3D Modeling  
-- 🌟 Robotics (ROS, C++, etc.)  
+- 🌟 Robotics (ROS, C++, etc.)
+- 🌟 Game Development with Unity and C#  
 
 
 ---
@@ -35,7 +36,7 @@
 ## 🌐 Languages  
 
 - **Spanish**: Native Speaker  
-- **English**: C2/C1  
+- **English**: C1  
 - **Japanese**: Learning (work in progress 😅)  
 
 ---

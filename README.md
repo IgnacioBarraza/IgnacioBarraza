@@ -9,7 +9,7 @@
 ## 💻 About Me  
 
 👨‍💻 I'm **Nacho**, a **22-year-old Software Engineer** from **Chile 🇨🇱**, passionate about:  
-- **Full Stack Development**  
+- **Full Stack Development focused on backend**  
 - **3D modeling** (currently learning)  
 - **Robotics Enthusiast**  
 
@@ -19,15 +19,14 @@
 - Playing **games** (CS:GO, Genshin Impact, Apex Legends, Overwatch 2, Minecraft) 🎮
 
 🚀 Portfolio:  
-🌐 Check out my work at [devnacho.me](https://devnacho.me/)
+🌐 Check out my work at [devnacho.me](https://devnacho.me/) (under maintenance)
 
 ---
 
 ## 🚀 Currently Learning  
-
-- 🌟 Full Stack Development focused on backend  
+ 
 - 🌟 3D Modeling  
-- 🌟 Robotics (ROS, C++, etc.)
+- 🌟 Robotics
 - 🌟 Game Development with Unity and C#  
 
 
@@ -81,7 +80,9 @@
 
 ## 💼 Work Experience  
 
-- **Full Stack Developer** at [@MapVX](https://mapvx.com/)  
+- **Full Stack Developer** at [@MapVX](https://mapvx.com/)
+- **Intern, Frontend Developer** at [@MapVX](https://mapvx.com/)
+- **Intern, Backend Developer** [@MapVX](https://mapvx.com/)  
 - **Teaching Assistant** for various courses at **Universidad de Tarapacá**  
 <img hight="300" width="700" alt="GIF" align="center" src="src/gif/japan-chieuki.gif">
 
@@ -102,12 +103,18 @@ If you’d like to reach out, feel free to ping me!
 
 ## 📊 GitHub Stats  
 
-<div align="center">  
+<div align="center">
 
-![Nacho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgnacioBarraza&show_icons=true&theme=dark#gh-dark-mode-only)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBarraza&layout=compact&theme=dark#gh-dark-mode-only)  
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=IgnacioBarraza&show_icons=true&theme=dark#gh-dark-mode-only" />
+</span>
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBarraza&layout=compact&theme=dark#gh-dark-mode-only" />
+</span>
 
-</div>  
+</div>
+
+
 
 ---
 

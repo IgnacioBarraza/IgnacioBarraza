@@ -1,7 +1,7 @@
 # 👋 Hey there!  
 
 <div align="center">
-  <img hight="300" width="700" alt="Hi There GIF" align="center" src="src/gif/hi-there.gif">
+  <img height="300" width="700" alt="Hi There GIF" align="center" src="src/gif/hi-there.gif">
 </div>  
 
 ---
@@ -10,25 +10,42 @@
 
 👨‍💻 I'm **Nacho**, a **22-year-old Software Engineer** from **Chile 🇨🇱**, passionate about:  
 - **Full Stack Development focused on backend**  
-- **3D modeling** (currently learning)  
-- **Robotics Enthusiast**  
+- **Robotics** 🤖  
+- **Game Development** 🎮  
 
-✨ When I'm not coding, you'll probably find me:  
+✨ When I'm not coding, you’ll probably find me:  
 - Trying (and struggling) to learn **Japanese** ⛩️  
 - Watching **anime** or reading **manga & light novels** 📚  
-- Playing **games** (CS:GO, Genshin Impact, Apex Legends, Overwatch 2, Minecraft) 🎮
+- Playing games like **CS2, Genshin Impact, Apex Legends, Overwatch 2, Minecraft**  
 
-🚀 Portfolio:  
-🌐 Check out my work at [devnacho.me](https://devnacho.me/) (under maintenance)
+🌐 Portfolio:  
+Check out more of my work at [**codebynacho.com**](https://codebynacho.com/)
 
 ---
 
 ## 🚀 Currently Learning  
  
-- 🌟 3D Modeling  
-- 🌟 Robotics
+- 🌟 Robotics  
 - 🌟 Game Development with Unity and C#  
 
+---
+
+## 📌 Featured Projects  
+
+Here are some of the most relevant projects I’ve worked on:
+
+### 🔹 [**Hyōsei**](https://github.com/IgnacioBarraza/Hyosei_showcase)  
+A professional project evaluation platform for academic events and fairs.  
+**Features:** multi-role system, project registration, judging panel, metrics dashboard, PDF/Excel export.
+
+### 🔹 [**Technical Challenge**](https://github.com/IgnacioBarraza/Desafio_Tecnico_Lazarillo)  
+Developed as part of the hiring process for my current role.  
+
+### 🔹 [**Deforestation Analysis – Python**](https://github.com/IgnacioBarraza/DeforestacionPython)  
+A data analysis tool for studying deforestation in Chile.  
+**What it does:** reads Excel datasets, generates statistics, plots historical deforestation data and trends using `pandas`, `matplotlib` and `seaborn`.
+
+<!-- Puedes agregar más proyectos luego si deseas -->
 
 ---
 
@@ -66,7 +83,6 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
   ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
@@ -80,22 +96,24 @@
 
 ## 💼 Work Experience  
 
-- **Full Stack Developer** at [@MapVX](https://mapvx.com/)
-- **Intern, Frontend Developer** at [@MapVX](https://mapvx.com/)
-- **Intern, Backend Developer** [@MapVX](https://mapvx.com/)  
-- **Teaching Assistant** for various courses at **Universidad de Tarapacá**  
-<img hight="300" width="700" alt="GIF" align="center" src="src/gif/japan-chieuki.gif">
+- **Full Stack Developer** at [@MapVX](https://mapvx.com/)  
+- **Intern, Frontend Developer** at [@MapVX](https://mapvx.com/)  
+- **Intern, Backend Developer** at [@MapVX](https://mapvx.com/)  
+- **Teaching Assistant** at **Universidad de Tarapacá**  
+
+<div align="center">
+  <img height="300" width="700" alt="GIF" align="center" src="src/gif/japan-chieuki.gif">
+</div>
 
 ---
 
 ## 📬 Contact Me  
 
 <div align="center">  
-
 If you’d like to reach out, feel free to ping me!  
 
-<a href="mailto:ignacio.barraza.rioja@gmail.com"><img hight="50" width="150" alt="Gmail" src="src/icons/gmail.png"></a>  
-<a href="https://www.linkedin.com/in/ignacio-barraza-rioja/"><img hight="50" width="150" alt="Linkedin" src="src/icons/linkedin.png"></a>  
+<a href="mailto:ignacio.barraza.rioja@gmail.com"><img height="50" width="150" alt="Gmail" src="src/icons/gmail.png"></a>  
+<a href="https://www.linkedin.com/in/ignacio-barraza-rioja/"><img height="50" width="150" alt="Linkedin" src="src/icons/linkedin.png"></a>  
 
 </div>  
 
@@ -114,13 +132,11 @@ If you’d like to reach out, feel free to ping me!
 
 </div>
 
-
-
 ---
 
 <div align="center">  
   <p>✨ Thanks for reading! ✨</p>  
-  <img hight="400" width="600" align="center" alt="GIF" src="src/gif/gojo-gojo-satoru.gif">  
+  <img height="400" width="600" align="center" alt="GIF" src="src/gif/gojo-gojo-satoru.gif">  
 </div>  
 
 <!---

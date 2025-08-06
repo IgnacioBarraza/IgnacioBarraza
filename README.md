@@ -38,8 +38,13 @@ Here are some of the most relevant projects I’ve worked on:
 A professional project evaluation platform for academic events and fairs.  
 **Features:** multi-role system, project registration, judging panel, metrics dashboard, PDF/Excel export.
 
+### 🔹 [**PDF Splitter Cinnamoroll Version**](https://github.com/IgnacioBarraza/pdf_splitter)  
+A lightweight desktop tool built with Python and Tkinter to split PDF files.  
+**Use case**: designed as a personalized utility for my girlfriend to organize her medical school PDFs.  
+**Features**: select specific pages or ranges, intuitive UI and fast file processing with PyPDF2.  
+
 ### 🔹 [**Technical Challenge**](https://github.com/IgnacioBarraza/Desafio_Tecnico_Lazarillo)  
-Developed as part of the hiring process for my current role.  
+Developed as part of the hiring process for my current role at [**MapVX**](https://mapvx.com).  
 
 ### 🔹 [**Deforestation Analysis – Python**](https://github.com/IgnacioBarraza/DeforestacionPython)  
 A data analysis tool for studying deforestation in Chile.  

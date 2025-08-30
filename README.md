@@ -26,7 +26,7 @@ I’m passionate about:
 ## 🚀 Currently Learning  
 
 - 🤖 **Robotics**  
-- 🎮 **Game Development with Unity & C#**  
+- 🎮 **Game Development**  
 
 ---
 

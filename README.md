@@ -3,7 +3,6 @@ I’m [**Nacho**](https://codebynacho.com/), a **Software Engineer** from **Chil
 Passionate about:  
 - 🖥️ **Full Stack Development (backend-focused)**  
 - 🤖 **Robotics**  
-- 🎮 **Game Development**  
 
 ✨ Outside of coding, you’ll usually catch me:  
 - 🏯 Trying (and struggling 😅) to learn **Japanese**  

@@ -21,8 +21,9 @@ A lightweight Python + Tkinter desktop tool to manage PDFs.
 **Use case:** made for organizing documents during my Computer Science degree.  
 **Features:** page selection, intuitive UI, fast processing with PyPDF2.  
 
-### 🔹 [**Technical Challenge**](https://github.com/IgnacioBarraza/Desafio_Tecnico_Lazarillo)  
-Developed as part of the hiring process for my current role at **MapVX**.  
+### 🔹 [**Dotfiles**](https://github.com/IgnacioBarraza/dotfiles)  
+An opinionated Ubuntu 26.04 setup focused on developer productivity, automation, and a clean Japanese-inspired terminal aesthetic.  
+**Features:** automated provisioning, Zsh + Starship, Fastfetch, Neovim, Docker, Node.js, Git configuration, developer utilities, shell aliases, and reproducible environment setup.
 
 ### 🔹 [**Deforestation Analysis – Python**](https://github.com/IgnacioBarraza/DeforestacionPython)  
 A data analysis tool to study deforestation in Chile.  

@@ -1,5 +1,5 @@
 # 👋 Hi there!  
-I’m [**Nacho**](https://codebynacho.com/), a **Software Engineer** from **Chile 🇨🇱**.  
+I’m [**Nacho**](https://codebynacho.com/), a **Software Engineer** from [**Chile 🇨🇱**](https://tenor.com/view/ruidos-chile-ruidos-en-chileno-chileno-gif-1631318949764619401).  
 Passionate about:  
 - 🖥️ **Full Stack Development (backend-focused)**  
 - 🤖 **Robotics**  
@@ -41,9 +41,13 @@ A data analysis tool to study deforestation in Chile.
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IgnacioBarraza&theme=tokyonight-duo&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBarraza&layout=compact&theme=tokyonight)  
+<span align="center">
 
+[![Joel's GitHub stats](https://github-stats-extended.vercel.app/api?username=IgnacioBarraza&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+<br />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IgnacioBarraza&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=IgnacioBarraza&langs_count=5&theme=tokyonight)
+  
+</span>
 <!---
 IgnacioBarraza/IgnacioBarraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

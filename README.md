@@ -16,7 +16,7 @@ Here are some highlights of what I’ve built so far:
 A professional project evaluation platform for academic fairs, exhibitions, and conferences.  
 **Features:** role-based system, project submissions, judging panel, metrics dashboard, PDF/Excel export.  
 
-### 🔹 [**Kōbun PDF Splitter**](https://github.com/IgnacioBarraza/kobun_pdf_splitter)  
+### 🔹 [**Kōbun**](https://github.com/IgnacioBarraza/kobun)  
 A lightweight Python + Tkinter desktop tool to manage PDFs.  
 **Use case:** made for organizing documents during my Computer Science degree.  
 **Features:** page selection, intuitive UI, fast processing with PyPDF2.  

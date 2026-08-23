@@ -43,7 +43,7 @@ A data analysis tool to study deforestation in Chile.
 
 <span align="center">
 
-[![Joel's GitHub stats](https://github-stats-extended.vercel.app/api?username=IgnacioBarraza&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+[![Nacho's GitHub stats](https://github-stats-extended.vercel.app/api?username=IgnacioBarraza&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 <br />
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IgnacioBarraza&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=IgnacioBarraza&langs_count=5&theme=tokyonight)
   

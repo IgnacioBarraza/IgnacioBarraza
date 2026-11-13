@@ -1,0 +1,31 @@
+name: Profile Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Render profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: IgnacioBarraza
+          cards: overview,languages,contributions,composition,repositories
+          output-dir: assets
+          themes: light,dark
+          commit: true
+          # Optional: one brand name per line, rendered as badge pills.
+          badges: |
+            LinkedIn
+            Qiita
+            npm

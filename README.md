@@ -139,22 +139,22 @@ Docker, Node, Python and Go — plus three Japanese-inspired terminal themes.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
-  <img alt="Overview" src="./assets/languages.light.svg" width="100%" />
+  <img alt="Languages" src="./assets/languages.light.svg" width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-  <img alt="Overview" src="./assets/contributions.light.svg" width="100%" />
+  <img alt="Contributions" src="./assets/contributions.light.svg" width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
-  <img alt="Overview" src="./assets/repositories.light.svg" width="100%" />
+  <img alt="Repositories" src="./assets/repositories.light.svg" width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg" />
-  <img alt="Overview" src="./assets/composition.light.svg" width="100%" />
+  <img alt="Composition" src="./assets/composition.light.svg" width="100%" />
 </picture>
 <!-- [![Stats](https://github-stats-extended.vercel.app/api?username=IgnacioBarraza&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26)](https://github.com/IgnacioBarraza)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=IgnacioBarraza&langs_count=6&theme=tokyonight&hide_border=true&layout=compact&bg_color=1a1b26)](https://github.com/IgnacioBarraza) -->

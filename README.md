@@ -153,8 +153,8 @@ Docker, Node, Python and Go — plus three Japanese-inspired terminal themes.
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/compositions.dark.svg" />
-  <img alt="Overview" src="./assets/compositions.light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg" />
+  <img alt="Overview" src="./assets/composition.light.svg" width="100%" />
 </picture>
 <!-- [![Stats](https://github-stats-extended.vercel.app/api?username=IgnacioBarraza&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26)](https://github.com/IgnacioBarraza)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=IgnacioBarraza&langs_count=6&theme=tokyonight&hide_border=true&layout=compact&bg_color=1a1b26)](https://github.com/IgnacioBarraza) -->
